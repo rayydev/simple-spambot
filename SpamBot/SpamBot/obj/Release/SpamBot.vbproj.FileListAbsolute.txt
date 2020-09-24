@@ -1,0 +1,12 @@
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.exe.config
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.exe
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.pdb
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.xml
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.Main.resources
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.Resources.resources
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.SplashScreen.resources
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.vbproj.GenerateResource.cache
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.vbproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.exe
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.xml
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.pdb

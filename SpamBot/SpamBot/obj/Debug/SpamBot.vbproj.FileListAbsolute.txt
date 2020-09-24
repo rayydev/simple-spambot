@@ -1,0 +1,13 @@
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Debug\SpamBot.exe.config
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Debug\SpamBot.exe
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Debug\SpamBot.pdb
+C:\Users\Olek\source\repos\SpamBot\SpamBot\bin\Debug\SpamBot.xml
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.vbprojAssemblyReference.cache
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.Resources.resources
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.vbproj.GenerateResource.cache
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.vbproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.exe
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.xml
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.pdb
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.Main.resources
+C:\Users\Olek\source\repos\SpamBot\SpamBot\obj\Debug\SpamBot.SplashScreen.resources
